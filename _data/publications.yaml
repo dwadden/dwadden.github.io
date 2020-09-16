@@ -1,0 +1,23 @@
+papers:
+    - title: "Fact or Fiction: Verifying Scientific Claims"
+      authors: David Wadden, Shanchuan Lin, Kyle Lo, Lucy Lu Wang, Madeleine van Zuylen, Arman Cohan, Hannaneh Hajishirzi
+      conference: EMNLP 2020
+      pdf: https://arxiv.org/abs/2004.14974
+      code: https://github.com/allenai/scifact
+
+    - title: "The Effect of Moderation on Online Mental Health Conversations"
+      authors: David Wadden, Tal August, Qisheng Li, Tim Althoff
+      conference: ICWSM 2021
+      pdf: https://arxiv.org/abs/2005.09225
+
+
+    - title: "Entity, Relation, and Event Extraction with Contextualized Span Representations"
+      authors: David Wadden, Ulme Wennberg, Yi Luan, Hannaneh Hajishirzi
+      conference: EMNLP 2019
+      pdf: https://arxiv.org/abs/1909.03546
+      code: https://github.com/dwadden/dygiepp
+
+    - title: "A General Framework for Information Extraction using Dynamic Span Graphs"
+      authors: Yi Luan, Dave Wadden, Luheng He, Amy Shah, Mari Ostendorf, Hannaneh Hajishirzi
+      conference: NAACL 2019
+      pdf: https://arxiv.org/abs/1904.03296
