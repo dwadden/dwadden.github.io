@@ -1,0 +1,81 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-4">
+      <img src="assets/images/dw-photo.jpg" class="img-fluid rounded-circle">
+    <ul style="list-style:none; padding-left: 0px">
+      <br>
+      <li><i class="far fa-envelope"></i> <a href="mailto:dwadden@cs.washington.edu">Email</a></li>
+      <li><i class="fab fa-github"></i><a href="https://github.com/dwadden"> GitHub</a></li>
+      <li><i class="fas fa-user-graduate"></i><a href="https://scholar.google.com/citations?user=BeTUvHIAAAAJ&hl=en"> Google Scholar</a></li>
+      <li><i class="fas fa-copy"></i><a href="https://www.semanticscholar.org/author/30051202"> Semantic Scholar</a></li>
+      </ul>
+    </div>
+    <div class="col-md-8">
+      <h2>David Wadden</h2>
+      <p>
+        Hi! I'm David Wadden. I'm a 5th year PhD student in the <a href="https://nlp.washington.edu">NLP group</a> at the <a href="https://www.cs.washington.edu">University of Washington</a>, advised by <a href="https://h2lab.cs.washington.edu">Hanna Hajishirzi</a>.
+      </p>
+      <p>
+        I study Natural Language Processing and Machine Learning, with a focus on applications in science and health. I'm particularly interested in building systems to assist researchers in extracting and verifying findings reported in scientific research.
+      </p>
+      <p>
+        Before grad school, I spent a few years working in genomics at the <a href="https://www.broadinstitute.org">Broad Institute</a>. Before that, I studied physics at <a href="https://www.amherst.edu">Amherst College</a>.
+      </p>
+
+      <p>
+        More details in my <a href="assets/docs/dw-cv.pdf">CV</a>.
+      </p>
+
+    </div>
+  </div>
+
+  <div class="row">
+
+  </div>
+
+  <div class="row">
+    <h2>Publications</h2>
+    <ul style="list-style:none; padding-left: 0px">
+      {% for paper in site.data.publications.papers%}
+      <li>
+        <p>
+          <b class='text'>{{paper.title}}</b>
+          <br>
+          <i class='text'>{{ paper.authors }} </i>
+          <br>
+          <span class='text'>{{paper.venue}}, {{paper.year}} </span>
+          <br>
+          {% if paper.website %}
+          <a class="badge badge-pill" href="{{ paper.website}}" target="_blank">Project page</a>
+          &nbsp;
+          {% endif %}
+          {% if paper.dataset %}
+          <a class="badge badge-pill badge-danger" href="{{ paper.dataset}}" target="_blank">Dataset</a>
+          &nbsp;
+          {% endif %}
+          {% if paper.article %}
+          <a href="{{ paper.article}}" target="_blank"><span class="badge badge-primary"> Article</span></a>
+          &nbsp;
+          {% endif %}
+          {% if paper.code %}
+          <a href="{{ paper.code}}" target="_blank"><span class="badge badge-secondary"> Code</span></a>
+          &nbsp;
+          {% endif %}
+          {% if paper.demo %}
+          <a href="{{ paper.demo}}" target="_blank"><span class="badge badge-success"> Demo</span></a>
+          &nbsp;
+          {% endif %}
+        </p>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+</div>

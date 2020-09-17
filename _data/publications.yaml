@@ -1,23 +1,51 @@
 papers:
-    - title: "Fact or Fiction: Verifying Scientific Claims"
-      authors: David Wadden, Shanchuan Lin, Kyle Lo, Lucy Lu Wang, Madeleine van Zuylen, Arman Cohan, Hannaneh Hajishirzi
-      conference: EMNLP 2020
-      pdf: https://arxiv.org/abs/2004.14974
-      code: https://github.com/allenai/scifact
+  - title: "The Effect of Moderation on Online Mental Health Conversations"
+    authors: <strong>David Wadden</strong>, Tal August, Qisheng Li, Tim Althoff
+    venue: ICWSM
+    year: 2021
+    article: https://arxiv.org/abs/2005.09225
 
-    - title: "The Effect of Moderation on Online Mental Health Conversations"
-      authors: David Wadden, Tal August, Qisheng Li, Tim Althoff
-      conference: ICWSM 2021
-      pdf: https://arxiv.org/abs/2005.09225
+  - title: "Fact or Fiction: Verifying Scientific Claims"
+    authors: <strong>David Wadden</strong>, Shanchuan Lin, Kyle Lo, Lucy Lu Wang, Madeleine van Zuylen, Arman Cohan, Hannaneh Hajishirzi
+    venue: EMNLP
+    year: 2020
+    article: https://arxiv.org/abs/2004.14974
+    code: https://github.com/allenai/scifact
+    demo: https://scifact.apps.allenai.org
 
+  - title: "Entity, Relation, and Event Extraction with Contextualized Span Representations"
+    authors: <strong>David Wadden</strong>, Ulme Wennberg, Yi Luan, Hannaneh Hajishirzi
+    venue: EMNLP
+    year: 2019
+    article: https://arxiv.org/abs/1909.03546
+    code: https://github.com/dwadden/dygiepp
 
-    - title: "Entity, Relation, and Event Extraction with Contextualized Span Representations"
-      authors: David Wadden, Ulme Wennberg, Yi Luan, Hannaneh Hajishirzi
-      conference: EMNLP 2019
-      pdf: https://arxiv.org/abs/1909.03546
-      code: https://github.com/dwadden/dygiepp
+  - title: "A General Framework for Information Extraction using Dynamic Span Graphs"
+    authors: Yi Luan, <strong>David Wadden</strong>, Luheng He, Amy Shah, Mari Ostendorf, Hannaneh Hajishirzi
+    venue: NAACL
+    year: 2019
+    article: https://arxiv.org/abs/1904.03296
 
-    - title: "A General Framework for Information Extraction using Dynamic Span Graphs"
-      authors: Yi Luan, Dave Wadden, Luheng He, Amy Shah, Mari Ostendorf, Hannaneh Hajishirzi
-      conference: NAACL 2019
-      pdf: https://arxiv.org/abs/1904.03296
+  - title: "Stratification of amyotrophic lateral sclerosis patients: a crowdsourcing approach"
+    authors: The ALS Stratification Consortium.
+    venue: Scientific Reports
+    year: 2019
+    article: https://doi.org/10.1038/s41598-018-36873-4
+
+  - title: "The GCTx format and cmap{Py, R, M, J} packages: resources for the optimized storage and integrated traversal of dense matrices of annotated dense matrices"
+    authors: Oana M Enache, David L Lahr, Ted E Natoli, Lev Litichevskiy, <strong>David Wadden</strong>, Corey Flynn, Joshua Z Gould, Jacob K Asiedu, Rajiv Narayan, Aravind Subramanian.
+    venue: Bioinformatics
+    year: 2018
+    article: https://doi.org/10.1093/bioinformatics/bty784
+
+  - title: "A Next Generation Connectivity Map: L1000 Platform And The First 1,000,000 Profiles"
+    authors: Aravind Subramanian et al.
+    venue: Cell
+    year: 2017
+    article: http://dx.doi.org/10.1016/j.cell.2017.10.049
+
+  - title: "Evaluation of RNAi and CRISPR technologies by large-scale gene expression profiling in the Connectivity Map"
+    authors: Ian Smith, Peyton Greenside, Ted Natoli, David L. Lahr, <strong>David Wadden</strong>, Itay Tirosh, Rajiv Narayan, David E. Root, Todd R. Golub, Aravind Subramanian, John G. Doench.
+    venue: PLoS Biology
+    year: 2017
+    article: https://doi.org/10.1371/journal.pbio.2003213
