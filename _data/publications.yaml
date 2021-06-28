@@ -4,6 +4,7 @@ papers:
     venue: ICWSM
     year: 2021
     article: https://arxiv.org/abs/2005.09225
+    award: Outstanding study design paper
 
   - title: "Extracting a Knowledge Base of Mechanisms from COVID-19 Papers."
     authors: Aida Amini, Tom Hope, <strong>David Wadden</strong>, Madeleine van Zuylen, Eric Horvitz, Roy Schwartz, Hannaneh Hajishirzi

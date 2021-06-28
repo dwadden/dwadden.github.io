@@ -52,6 +52,10 @@ layout: home
           <br>
           <span class='text'>{{paper.venue}}, {{paper.year}} </span>
           <br>
+          {% if paper.award %}
+          <span class='text'><i class="fas fa-trophy"></i> {{paper.award}}</span>
+          <br>
+          {% endif %}
           {% if paper.website %}
           <a class="badge badge-pill" href="{{ paper.website}}" target="_blank">Project page</a>
           &nbsp;
