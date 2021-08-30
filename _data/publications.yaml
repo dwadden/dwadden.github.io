@@ -8,7 +8,7 @@ papers:
 
   - title: "Scientific Language Models for Biomedical Knowledge Base Completion: An Empirical Study"
     authors: Rahul Nadkarni, <strong>David Wadden</strong>, Iz Beltagy, Noah A. Smith, Hannaneh Hajishirzi, Tom Hope
-    Venue: AKBC
+    venue: AKBC
     year: 2021
     article: https://arxiv.org/abs/2106.09700
 
