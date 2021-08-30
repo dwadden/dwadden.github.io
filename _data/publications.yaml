@@ -6,7 +6,13 @@ papers:
     article: https://arxiv.org/abs/2005.09225
     award: Outstanding study design paper
 
-  - title: "Extracting a Knowledge Base of Mechanisms from COVID-19 Papers."
+  - title: "Scientific Language Models for Biomedical Knowledge Base Completion: An Empirical Study"
+    authors: Rahul Nadkarni, <strong>David Wadden</strong>, Iz Beltagy, Noah A. Smith, Hannaneh Hajishirzi, Tom Hope
+    Venue: AKBC
+    year: 2021
+    article: https://arxiv.org/abs/2106.09700
+
+  - title: "Extracting a Knowledge Base of Mechanisms from COVID-19 Papers"
     authors: Aida Amini, Tom Hope, <strong>David Wadden</strong>, Madeleine van Zuylen, Eric Horvitz, Roy Schwartz, Hannaneh Hajishirzi
     venue: NAACL
     year: 2021

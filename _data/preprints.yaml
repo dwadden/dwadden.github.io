@@ -1,4 +1,5 @@
 papers:
-  - title: "Scientific Language Models for Biomedical Knowledge Base Completion: An Empirical Study."
-    authors: Rahul Nadkarni, <strong>David Wadden</strong>, Iz Beltagy, Noah A. Smith, Hannaneh Hajishirzi, Tom Hope
-    article: https://arxiv.org/pdf/2106.09700.pdf
+  - title: "Overview and Insights from the SciVer Shared Task on Scientific Claim Verification"
+    authors: <strong>David Wadden</strong>, Kyle Lo
+    article: https://arxiv.org/abs/2107.08188
+    year: 2021
