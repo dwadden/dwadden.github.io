@@ -18,6 +18,12 @@ papers:
     year: 2021
     article: https://arxiv.org/abs/2010.03824
 
+  - title: "Overview and Insights from the SciVer Shared Task on Scientific Claim Verification"
+    authors: <strong>David Wadden</strong>, Kyle Lo
+    venue: Scholarly Document Processing Workshop @ NAACL
+    article: https://arxiv.org/abs/2107.08188
+    year: 2021
+
   - title: "Fact or Fiction: Verifying Scientific Claims"
     authors: <strong>David Wadden</strong>, Shanchuan Lin, Kyle Lo, Lucy Lu Wang, Madeleine van Zuylen, Arman Cohan, Hannaneh Hajishirzi
     venue: EMNLP
