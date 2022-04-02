@@ -1,7 +1,7 @@
 papers:
   - title: "Generating Scientific Claims for Zero-Shot Scientific Fact Checking"
     authors: Dustin Wright, <strong>David Wadden</strong>, Kyle Lo, Bailey Kuehl, Arman Cohan, Isabelle Augenstein, Lucy Lu Wang
-    venue: ACL 2022
+    venue: ACL
     year: 2022
     article: https://arxiv.org/abs/2203.12990
 
