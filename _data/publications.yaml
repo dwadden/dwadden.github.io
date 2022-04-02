@@ -1,4 +1,10 @@
 papers:
+  - title: "Generating Scientific Claims for Zero-Shot Scientific Fact Checking"
+    authors: Dustin Wright, <strong>David Wadden</strong>, Kyle Lo, Bailey Kuehl, Arman Cohan, Isabelle Augenstein, Lucy Lu Wang
+    venue: ACL 2022
+    year: 2022
+    article: https://arxiv.org/abs/2203.12990
+
   - title: "The Effect of Moderation on Online Mental Health Conversations"
     authors: <strong>David Wadden</strong>, Tal August, Qisheng Li, Tim Althoff
     venue: ICWSM
