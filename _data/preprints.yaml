@@ -2,7 +2,7 @@ papers:
   - title: "Generating recommendations for entity-oriented exploratory search"
     authors: <strong>David Wadden</strong>, Nikita Gupta, Kenton Lee, Kristina Toutanova
     year: 2022
-    article: https://drive.google.com/file/d/1qGRmY0IADMipYxXL86ZDL_DSBulW8VbZ/view?usp=sharing
+    article: https://arxiv.org/abs/2204.00743
 
   - title: "LongChecker: Improving scientific claim verification by modeling full-abstract context"
     authors: <strong>David Wadden</strong>, Kyle Lo, Lucy Lu Wang, Arman Cohan, Iz Beltagy, Hannaneh Hajishirzi
