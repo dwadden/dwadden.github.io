@@ -3,9 +3,3 @@ papers:
     authors: <strong>David Wadden</strong>, Nikita Gupta, Kenton Lee, Kristina Toutanova
     year: 2022
     article: https://arxiv.org/abs/2204.00743
-
-  - title: "LongChecker: Improving scientific claim verification by modeling full-abstract context"
-    authors: <strong>David Wadden</strong>, Kyle Lo, Lucy Lu Wang, Arman Cohan, Iz Beltagy, Hannaneh Hajishirzi
-    year: 2021
-    article: https://arxiv.org/abs/2112.01640
-    code: https://github.com/dwadden/longchecker

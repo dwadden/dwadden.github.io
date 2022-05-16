@@ -1,4 +1,11 @@
 papers:
+  - title: "MultiVerS: Improving scientific claim verification with weak supervision and full-document context"
+    authors: <strong>David Wadden</strong>, Kyle Lo, Lucy Lu Wang, Arman Cohan, Iz Beltagy, Hannaneh Hajishirzi
+    venue: NAACL Findings
+    year: 2022
+    article: https://arxiv.org/abs/2112.01640
+    code: https://github.com/dwadden/multivers
+
   - title: "Generating Scientific Claims for Zero-Shot Scientific Fact Checking"
     authors: Dustin Wright, <strong>David Wadden</strong>, Kyle Lo, Bailey Kuehl, Arman Cohan, Isabelle Augenstein, Lucy Lu Wang
     venue: ACL
