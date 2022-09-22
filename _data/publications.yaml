@@ -1,4 +1,11 @@
 papers:
+  - title: "Entity-Centric Query Refinement"
+    authors: <strong>David Wadden</strong>, Nikita Gupta, Kenton Lee, Kristina Toutanova
+    venue: AKBC
+    year: 2022
+    article: https://arxiv.org/abs/2204.00743
+    code: https://github.com/google-research/language/tree/master/language/qresp
+
   - title: "MultiVerS: Improving scientific claim verification with weak supervision and full-document context"
     authors: <strong>David Wadden</strong>, Kyle Lo, Lucy Lu Wang, Arman Cohan, Iz Beltagy, Hannaneh Hajishirzi
     venue: NAACL Findings
