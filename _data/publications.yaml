@@ -6,6 +6,12 @@ papers:
     article: https://arxiv.org/abs/2204.00743
     code: https://github.com/google-research/language/tree/master/language/qresp
 
+  - title: "SciFact-Open: Towards open-domain scientific claim verification"
+    authors: <strong>David Wadden</strong>, Kyle Lo, Bailey Kuehl, Arman Cohan, Iz Beltagy, Lucy Lu Wang, Hannaneh Hajishirzi
+    venue: EMNLP Findings
+    year: 2022
+    article: https://arxiv.org/abs/2210.13777
+
   - title: "MultiVerS: Improving scientific claim verification with weak supervision and full-document context"
     authors: <strong>David Wadden</strong>, Kyle Lo, Lucy Lu Wang, Arman Cohan, Iz Beltagy, Hannaneh Hajishirzi
     venue: NAACL Findings
