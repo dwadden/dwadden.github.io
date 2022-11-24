@@ -5,6 +5,7 @@ papers:
     year: 2022
     article: https://arxiv.org/abs/2204.00743
     code: https://github.com/google-research/language/tree/master/language/qresp
+    award: Best Paper Honorable Mention
 
   - title: "SciFact-Open: Towards open-domain scientific claim verification"
     authors: <strong>David Wadden</strong>, Kyle Lo, Bailey Kuehl, Arman Cohan, Iz Beltagy, Lucy Lu Wang, Hannaneh Hajishirzi
